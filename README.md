@@ -1,5 +1,7 @@
 # Selo Pasto Baixo Carbono
 
+**Acesso:** [aluisiopereirae.github.io/selo](https://aluisiopereirae.github.io/selo/)
+
 Plataforma web para calcular a emissão de metano de fazendas de gado de corte a pasto, classificar a fazenda em um nível de selo (Bronze, Prata ou Ouro), indicar o que falta para chegar ao Ouro e emitir etiquetas com QR Code para as embalagens de carne.
 
 Tudo roda em um único arquivo HTML, direto no navegador. Não precisa de instalação, servidor nem banco de dados.
@@ -66,8 +68,6 @@ Sem o arquivo de chave, a plataforma gera apenas um **rascunho**. Ele serve para
 Cada emissão fica registrada no navegador. O registro pode ser exportado em CSV, e cada selo pode ser marcado como revogado.
 
 ## Validação
-
-**Acesso:** [aluisiopereirae.github.io/selo](https://aluisiopereirae.github.io/selo/)
 
 Qualquer pessoa pode conferir um selo:
 
